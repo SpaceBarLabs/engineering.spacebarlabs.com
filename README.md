@@ -9,3 +9,5 @@ Run the following command to start the Jekyll server:
 ```
 jekyll serve --host 0.0.0.0
 ```
+
+Then visit http://your-hostname:4000/
