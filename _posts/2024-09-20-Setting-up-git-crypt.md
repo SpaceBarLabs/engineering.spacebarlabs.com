@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up git crypt"
 category: ""
 date:   2024-09-20
+author: "Benjamin Oakes"
 ---
 
 We store some secrets in git repositories.  They are encrypted using [`git-crypt`](https://github.com/AGWA/git-crypt).  While setting it up, we had to refer to multiple tutorials and writeups, which are consolidated in this post.  We wrote this post for our own reference and hope it is helpful for the wider world as well.
