@@ -1,6 +1,6 @@
-# blog.spacebarlabs.com
+# engineering.spacebarlabs.com
 
-This is the source code for the [Space Bar Labs](https://www.spacebarlabs.com/) blog. It is built using Jekyll and hosted on GitHub Pages.
+This is the source code for the [Space Bar Labs](https://www.spacebarlabs.com/) engineering blog. It is built using Jekyll and hosted on GitHub Pages.
 
 ## Development
 
