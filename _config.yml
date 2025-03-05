@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Space Bar Labs Engineering Blog
+title: Percent Twenty
 email: blog@spacebarlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
   The engineering blog of Space Bar Labs, a software development company.
