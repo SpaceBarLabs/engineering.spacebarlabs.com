@@ -6,7 +6,7 @@ date:   2025-02-20
 author: "Benjamin Oakes"
 ---
 
-I use `virt-manager` (Virtual Machine Manager) on Ubuntu to run virtual machines, mostly for development.  Recently, I've been preferring to do all development within a virtual machine that I can easily create.  All too often, something will go wrong with the host OS if I develop directly on it.  Yes, even if I use Docker.  (If you use Docker for Mac, you're running Linux within a VM, which is essentially a similar approach.)  I've chosen to use `virt-manager` over GNOME Boxes and VirtualBox because it's much lighter weight.  My understanding is that it uses more Linux kernel features to achieve this.  It's nice.  Except for when it stops working.
+I use `virt-manager` (Virtual Machine Manager) on Ubuntu to run virtual machines, mostly for development.  Recently, I've been preferring to do all development within a virtual machine that I can easily create.  All too often, something will go wrong with the host OS if I develop directly on it.  Yes, even if I use Docker.  (If you use Docker for Mac, you're running Linux within a VM, which is essentially a similar approach.)  I've chosen to use `virt-manager` over GNOME Boxes and VirtualBox because it's much lighter weight but more feature-rich than GNOME Boxes.  My understanding is that it uses more Linux kernel features to achieve this.  It's nice.  Except for when it stops working.
 
 ## The Error
 
