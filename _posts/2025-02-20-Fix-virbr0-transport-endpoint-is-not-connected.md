@@ -10,7 +10,7 @@ I use `virt-manager` (Virtual Machine Manager) on Ubuntu to run virtual machines
 
 ## The Error
 
-After a hard shutdown, I started getting this error when attempting to start guest VMs within `virt-manager`:
+After a hard shutdown of my laptop, I started getting this error when attempting to start guest VMs within `virt-manager`:
 
 ```
 Unable to complete install: '/usr/lib/qemu/qemu-bridge-helper --use-vnet --br=virbr0 --fd=32: failed to communicate with bridge helper: stderr=failed to create tun device: Operation not permitted
