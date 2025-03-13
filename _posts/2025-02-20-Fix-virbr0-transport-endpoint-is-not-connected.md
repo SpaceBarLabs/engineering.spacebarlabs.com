@@ -41,8 +41,8 @@ It can't connect to the transport endpoint, in this case, a virtual bridged netw
 
 Some useful resources about `virbr0`:
 
-  - https://wiki.libvirt.org/VirtualNetworking.html
-  - https://askubuntu.com/questions/246343/what-is-the-virbr0-interface-used-for
+  - [https://wiki.libvirt.org/VirtualNetworking.html](https://wiki.libvirt.org/VirtualNetworking.html)
+  - [https://askubuntu.com/questions/246343/what-is-the-virbr0-interface-used-for](https://askubuntu.com/questions/246343/what-is-the-virbr0-interface-used-for)
 
 ## The Fix
 
